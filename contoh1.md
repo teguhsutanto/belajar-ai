@@ -12,13 +12,17 @@
 4. Leaderboard Positif dan Reflektif
 > “Bantu aku buat template leaderboard yang menunjukkan progres tiap siswa tanpa memunculkan rasa kalah, tapi memotivasi untuk berkembang.”  
  
-
 Kalau kamu mau asisten digital yang bisa bantu rancang game system pembelajaran dari nol sampai jalan,
 langsung pakai 🎮 GamifyGuru by ipadevpro.
+
 🧠 GamifyGuru bantu kamu:
+
 ✅ Desain XP, badge, dan level yang selaras dengan capaian belajar
+
 ✅ Ciptakan misi, quest, dan tantangan berbasis topik pelajaran
+
 ✅ Rancang reward system & leaderboard sehat
+
 ✅ Aktifkan dopamine loop biar siswa semangat tiap pertemuan
 Belajar gak harus tegang — bisa seru, meaningful, dan tetap mendidik. ✨
 Link di bio.  
@@ -27,7 +31,6 @@ Link di bio.
 5. Gabungkan Gamifikasi dengan RPP / Modul Ajar
 > “Integrasikan elemen gamifikasi ke dalam RPP Pembelajaran Mendalam agar kegiatan belajar terasa seperti level game, dari eksplorasi → tantangan → refleksi.”  
  
-
 6. Evaluasi Efektivitas Gamifikasi di Kelas
 > “Tulis cara mengevaluasi dampak gamifikasi terhadap keterlibatan belajar siswa dan bagaimana menyesuaikan sistemnya agar tetap efektif.”
  
